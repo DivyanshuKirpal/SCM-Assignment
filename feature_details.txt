@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changes done
+=======
+Details of Project
+>>>>>>> feature-update
